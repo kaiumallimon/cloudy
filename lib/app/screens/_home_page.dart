@@ -1,4 +1,4 @@
-import 'package:cloudy/app/screens/_home_weather_card.dart';
+import 'package:cloudy/app/widgets/_home_weather_card.dart';
 import 'package:cloudy/app/widgets/_custom_asset_button.dart';
 import 'package:cloudy/core/assets/_assets.dart';
 import 'package:cloudy/core/theming/_colors.dart';
